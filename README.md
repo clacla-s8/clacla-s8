@@ -1,6 +1,3 @@
-
-# Clarice Santos
-
 ## Olá Mundo ! 👋
 
 Sou uma FullStack Developer em construção 🕵️‍💻
