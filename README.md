@@ -4,8 +4,7 @@
 
 Sou uma FullStack Developer em construção 🕵️‍💻
 
- <br/> 🎓 &nbsp; Faço bacharelado em Sistemas de informação na UFRPE
- 
+ <br/> 🎓 &nbsp; Faço bacharelado em Sistemas de informação na UFRPE 
  <br/> 💙 &nbsp; Buscando colaborar com projetos em Front-end e Back-end
  <br/> 😀 &nbsp; Posso te ajudar com HTML, CSS e NodeJS
  <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, ler, umas cervas 🍺 e seriados no Netflix
