@@ -1,6 +1,9 @@
 ## Olá Mundo ! 👋
 
+![clacla-s8 Status](https://github-readme-stats.vercel.app/api?username=clacla-s8&show_icons=true)
+
 Sou uma FullStack Developer em construção 🕵️‍💻
+
 
  <br/> 🎓 &nbsp; Faço bacharelado em Sistemas de informação na UFRPE
  <br/> 💙 &nbsp; Buscando colaborar com projetos em Front-end e Back-end
