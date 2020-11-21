@@ -1,6 +1,6 @@
 ## Olá Mundo ! 👋
 
-![clacla-s8 Status](https://github-readme-stats.vercel.app/api?username=clacla-s8&show_icons=true)
+![clacla-s8 Status](https://github-readme-stats.vercel.app/api?username=clacla-s8&show_icons=true&theme=tokyonight)
 
 Sou uma FullStack Developer em construção 🕵️‍💻
 
